@@ -1,5 +1,3 @@
 ## Simulation Demo
 
-![Preview](results/interception_simulation.gif)
-
-[▶️ Watch Full Video](results/interception_simulation.mp4)
+[![Watch Simulation](https://raw.githubusercontent.com/vanisherx31/rendezvous-guidance-interception/main/results/interception_plot.png)](https://raw.githubusercontent.com/vanisherx31/rendezvous-guidance-interception/main/results/interception_simulation.mp4)
